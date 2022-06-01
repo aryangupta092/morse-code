@@ -28,5 +28,5 @@ The algorithm is very simple. Every character in the English language is substit
 ![Screenshot (7)](https://user-images.githubusercontent.com/85709371/128562695-97af14a8-edfc-4399-b348-0493ae204ff5.png)
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Aryan](https://github.com/aryangupta092)
 # morse-code
